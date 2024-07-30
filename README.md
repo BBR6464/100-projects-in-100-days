@@ -1,2 +1,2 @@
 # Python Projects
-# 100 days of code starting today
+100 days of code starting today
